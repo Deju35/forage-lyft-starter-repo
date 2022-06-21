@@ -12,3 +12,4 @@ Nubbin Battery - should be serviced once every 4 years,
 
 
 The first task is to convert the UML Diagram provided to source code, name the file carfactory.py
+The second  task is to write unit tests for each of the battery and engine classes in the codebase 
