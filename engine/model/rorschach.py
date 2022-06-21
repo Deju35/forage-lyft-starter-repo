@@ -10,3 +10,4 @@ class Rorschach(WilloughbyEngine):
             return True
         else:
             return False
+        
