@@ -10,3 +10,4 @@ class Glissade(WilloughbyEngine):
             return True
         else:
             return False
+        
